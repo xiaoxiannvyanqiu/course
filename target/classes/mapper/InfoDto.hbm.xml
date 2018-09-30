@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.qiujian.dto.InfoDto" table="info" schema="phone_1706">
+        <id name="ifId" column="if_id"/>
+        <property name="ifName" column="if_name"/>
+    </class>
+</hibernate-mapping>

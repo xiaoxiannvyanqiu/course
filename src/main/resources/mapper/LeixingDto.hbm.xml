@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.qiujian.dto.LeixingDto" table="leixing" schema="phone_1706">
+        <id name="lxId" column="lx_id"/>
+        <property name="lxName" column="lx_name"/>
+        <property name="lxPrice" column="lx_price"/>
+        <property name="lxImg" column="lx_img"/>
+    </class>
+</hibernate-mapping>

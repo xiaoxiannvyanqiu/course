@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.qiujian.dto.ShuxingDto" table="shuxing" schema="phone_1706">
+        <id name="sxId" column="sx_id"/>
+        <property name="sxName" column="sx_name"/>
+        <many-to-one name="infoDto" column="fk_if_id" class="com.qiujian.dto.InfoDto" lazy="false"/>
+    </class>
+</hibernate-mapping>

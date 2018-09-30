@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.qiujian.dto.UserDto" table="user" schema="phone_1706">
+        <id name="userId" column="user_id"/>
+        <property name="userName" column="user_name"/>
+        <property name="userPassword" column="user_password"/>
+        <property name="userSalf" column="user_salf"/>
+        <set name="roleDtoSet" table="us_ro">
+            <key column="fk_user_id"/>
+            <many-to-many column="fk_role_id" class="com.qiujian.dto.RoleDto" lazy="false"/>
+        </set>
+    </class>
+</hibernate-mapping>

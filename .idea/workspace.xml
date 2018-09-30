@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="_qiujian_huigou_project:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02e18e38-bc05-46cf-83f2-ddbc6b857890" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-main-5.2" />
+        <option value="spring.xml" />
+        <option value="hibernate-configuration-5.2" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hea</find>
+      <find>basepath</find>
+      <find>base</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/submit_success.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/impl/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-hibernate.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/controller/SpringController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/PhoneDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/ShuxingDto.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/LeixingDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/InfoDto.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/InfoDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/SxPhDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/LeixingDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/controller/JSONArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/qiujian/SpringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/PhoneDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShuxingDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/SxPhDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/UserDto.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dto/RoleDto.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/RoleDto.hbm.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-core.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/info.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dao/logindao/IUserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dao/logindao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/service/loginservice/IUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/realname/HibernaRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/service/loginservice/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/mycart.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dao/IPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/service/IPhService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/service/impl/PhService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/controller/PhoneController.java" />
+        <option value="$PROJECT_DIR$/_qiujian_huigou_project.iml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/qiujian/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qiujian/dao/impl/Phone.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/java-1706/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\java-1706\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="437" />
+    <option name="y" value="115" />
+    <option name="width" value="1339" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qiujian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qiujian" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qiujian" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qiujian" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qiujian" type="462c0819:PsiDirectoryNode" />
+              <item name="realname" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_qiujian_huigou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_qiujian_huigou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JPA.DatabaseSchemaImportDialog" value="774f06cb-7518-4f13-baf9-e53c84e2aede" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_qiujian_huigou_project\src\main\resources\mapper" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+      <recent name="com.qiujian.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\_qiujian_huigou_project\src\main\webapp" />
+      <recent name="E:\_qiujian_huigou_project\src\main\resources" />
+      <recent name="E:\_qiujian_huigou_project\src\main\java\com\qiujian" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qiujian.realname" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qiujian.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="remote" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="HOST" value="192.168.72.166" />
+      <option name="LOCAL" value="false" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="_qiujian_huigou_project:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="e16a9929-ac30-4686-8713-1d87ac4f0aa1" />
+                    <id>e16a9929-ac30-4686-8713-1d87ac4f0aa1</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="e16a9929-ac30-4686-8713-1d87ac4f0aa1" />
+                    <id>e16a9929-ac30-4686-8713-1d87ac4f0aa1</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="/usr/local/apache-tomcat-8.5.29/webapps" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="0b45fd0a-95d9-48ed-b7b8-be78ac2bfd92" />
+                    <id>0b45fd0a-95d9-48ed-b7b8-be78ac2bfd92</id>
+                  </TransportTarget>
+                </option>
+                <staging-path>/usr/local/apache-tomcat-8.5.29/webapps</staging-path>
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="0b45fd0a-95d9-48ed-b7b8-be78ac2bfd92" />
+                    <id>0b45fd0a-95d9-48ed-b7b8-be78ac2bfd92</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="65a4f4d3-26f4-4a06-ab2e-fa3221b4cc1b" />
+          <host-id>65a4f4d3-26f4-4a06-ab2e-fa3221b4cc1b</host-id>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58043" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="_qiujian_huigou_project:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e18e38-bc05-46cf-83f2-ddbc6b857890" name="Default" comment="" />
+      <created>1520585771958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520585771958</updated>
+      <workItem from="1520585782494" duration="6223000" />
+      <workItem from="1520644463125" duration="9042000" />
+      <workItem from="1520816246897" duration="20473000" />
+      <workItem from="1520898975537" duration="43171000" />
+      <workItem from="1520988951182" duration="40104000" />
+      <workItem from="1521075425955" duration="23336000" />
+      <workItem from="1521113609693" duration="1518000" />
+      <workItem from="1521116962372" duration="4366000" />
+      <workItem from="1521125081043" duration="2080000" />
+      <workItem from="1521161701757" duration="27891000" />
+      <workItem from="1521977188920" duration="3282000" />
+      <workItem from="1522064393078" duration="3766000" />
+      <workItem from="1522140493492" duration="7345000" />
+      <workItem from="1522219788149" duration="1657000" />
+      <workItem from="1524032172203" duration="1412000" />
+      <workItem from="1524059162320" duration="122000" />
+      <workItem from="1524100792028" duration="1112000" />
+      <workItem from="1524668671547" duration="160000" />
+      <workItem from="1526549849948" duration="123000" />
+      <workItem from="1526867382897" duration="1302000" />
+      <workItem from="1527241955073" duration="652000" />
+      <workItem from="1529378616972" duration="859000" />
+      <workItem from="1529886367763" duration="818000" />
+      <workItem from="1530339159235" duration="1164000" />
+      <workItem from="1532350593592" duration="151000" />
+      <workItem from="1533696593520" duration="800000" />
+      <workItem from="1533882073637" duration="2450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LoginTest_hibernateTest - 2018.03.16 at 11h 19m 32s.xml">
+      <configuration name="LoginTest.hibernateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_hibernateTest - 2018.03.16 at 11h 21m 53s.xml">
+      <configuration name="LoginTest.hibernateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_hibernateTest - 2018.03.16 at 11h 23m 53s.xml">
+      <configuration name="LoginTest.hibernateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_hibernateTest - 2018.03.16 at 14h 01m 14s.xml">
+      <configuration name="LoginTest.hibernateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_test2 - 2018.03.16 at 09h 12m 20s.xml">
+      <configuration name="LoginTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_test2 - 2018.03.16 at 09h 21m 33s.xml">
+      <configuration name="LoginTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_test2 - 2018.03.16 at 09h 31m 46s.xml">
+      <configuration name="LoginTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_test2 - 2018.03.16 at 10h 09m 04s.xml">
+      <configuration name="LoginTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_testMD5 - 2018.03.16 at 09h 16m 53s.xml">
+      <configuration name="LoginTest.testMD5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_testMD5 - 2018.03.16 at 10h 07m 05s.xml">
+      <configuration name="LoginTest.testMD5" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="205379000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Persistence" order="0" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2508834" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34157833" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32979977" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32979977" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.2803298" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19528875" />
+      <window_info anchor="right" id="BPMNPalette" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32979977" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>_qiujian_huigou_project:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>_qiujian_huigou_project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-logging:commons-logging:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.qiujian.dto.PhoneDto" table="phone" schema="phone_1706">
+        <id name="phId" column="ph_id"/>
+        <property name="phName" column="ph_name"/>
+        <set name="leixingDtos" lazy="false">
+            <key column="fk_ph_id"/>
+            <one-to-many class="com.qiujian.dto.LeixingDto"/>
+        </set>
+    </class>
+</hibernate-mapping>
